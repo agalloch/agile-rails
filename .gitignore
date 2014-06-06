@@ -34,3 +34,6 @@ pickle-email-*.html
 /_yardoc/
 /doc/
 /rdoc/
+
+## Ignore RubyMine files
+/.idea/
